@@ -63,16 +63,8 @@ http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8?wsSession=14d4afa57497cbd723
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
 #EXTINF:-1 ,上海金山电视台
 http://live.mudu.tv/watch/4zbn2f.m3u8
-#EXTINF:-1 ,东方卫视
-http://111.40.205.87/PLTV/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://111.40.205.87/PLTV/88888888/224/3221225700/index.m3u8
-#EXTINF:-1 ,东方卫视HD
-http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8
 #EXTINF:-1 ,东方卫视HD
 http://223.82.250.72/live/hddongfangstv/1.m3u8
-#EXTINF:-1 ,东方卫视高清
-http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
 #EXTINF:-1 ,东方财经-浦东
 http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 ,云南少儿频道
