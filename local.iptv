@@ -53,12 +53,6 @@ http://live.appwuhan.com/7tzb/sd/live.m3u8
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 ,三国演义
 https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,上海浦东
-http://pdlive.lyuncloud.com/pdlive/pdtv/index.m3u8
-#EXTINF:-1 ,上海这一刻陆家嘴
-http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
-#EXTINF:-1 ,上海这一刻陆家嘴
-http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201925578539&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
 #EXTINF:-1 ,上海这一刻魔都眼
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?wsSession=14d4afa57497cbd7234253cd-154201931602055&wsIPSercert=acb4b8c47a67df44337edea131d91dac&wsMonitor=-1
 #EXTINF:-1 ,上海金山电视台
