@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-5+体育
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 ,上海教育台
+http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
+#EXTINF:-1 ,CCTV-5+体育1
+CCTV-5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,CCTV-5+体育2
+CCTV-5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 ,东方卫视
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 ,CCTV-5+体育10
+http://111.48.34.179/wh7f454c46tw920078275_2068891351/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/index.m3u8
+#EXTINF:-1 ,CCTV-5+体育11
+http://111.48.34.182/wh7f454c46tw2768875358_33606921/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/1.m3u8
+#EXTINF:-1 ,CCTV-5+体育12
+http://111.48.34.179/wh7f454c46tw1796545278_1328841493/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/2.m3u8
+#EXTINF:-1 ,CCTV-5+体育13
+http://111.48.34.179/wh7f454c46tw1796545278_1328841493/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/3.m3u8
+#EXTINF:-1 ,五星体育1
+http://111.48.34.235/wh7f454c46tw3034174782_30136537/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+#EXTINF:-1 ,五星体育2
+http://111.20.45.160/wh7f454c46tw3072422848_1321119521/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/1.m3u8
+#EXTINF:-1 ,五星体育3
+http://111.48.34.235/wh7f454c46tw224879224_2084140391/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+#EXTINF:-1 ,五星体育4
+http://111.48.34.189/wh7f454c46tw3039675858_194216237/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
